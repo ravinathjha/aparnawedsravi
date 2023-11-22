@@ -451,7 +451,7 @@ p {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
-  background-color: rgba(61, 36, 36, 0.56); }
+  background-color: rgba(61, 36, 36, 0.00); }
 
 .sticky {
   position: fixed;

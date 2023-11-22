@@ -451,7 +451,7 @@ p {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
-  background-color: rgba(255, 255, 255, 0.07); }
+  background-color: rgba(61, 36, 36, 0.56); }
 
 .sticky {
   position: fixed;
@@ -692,7 +692,7 @@ p {
   .single_slider::before {
     position: absolute;
     content: '';
-    background-color: rgba(61, 36, 36, 0.54);
+    background-color: rgba(61, 36, 36, 0.56);
     width: 100%;
     height: 100%;
     left: 0;
